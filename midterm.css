@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(51, 51, 51);
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    text-align: center;
+    color: gainsboro;
+}
+button {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    color: gainsboro;
+    text-align: center;
+}
